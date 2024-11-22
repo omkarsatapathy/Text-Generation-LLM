@@ -1,0 +1,289 @@
+2024-11-19 09:26:43,203 - INFO - Tokenizing texts...
+2024-11-19 09:26:43,208 - INFO - Tokenizing texts...
+2024-11-19 09:26:43,229 - INFO - Training samples: 103170
+2024-11-19 09:26:43,229 - INFO - Validation samples: 11464
+2024-11-19 09:26:43,229 - INFO - Tokenizing texts...
+2024-11-19 09:26:43,236 - INFO - Tokenizing texts...
+2024-11-19 09:26:44,441 - INFO - Tokenizing texts...
+2024-11-19 09:26:44,480 - INFO - Tokenizing texts...
+2024-11-19 09:26:44,512 - INFO - Tokenizing texts...
+2024-11-19 09:26:44,515 - INFO - Tokenizing texts...
+2024-11-19 09:26:44,636 - INFO - 
+Epoch 1/10
+2024-11-19 09:27:05,660 - INFO - Train loss: 7.7865
+2024-11-19 09:27:11,930 - INFO - Validation loss: 5.7890
+2024-11-19 09:27:12,889 - INFO - Saved checkpoint: outputs/checkpoint_epoch_0.pt
+2024-11-19 09:27:13,836 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:27:14,788 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:27:15,312 - INFO - 
+Epoch 2/10
+2024-11-19 09:27:32,779 - INFO - Train loss: 5.4276
+2024-11-19 09:27:39,048 - INFO - Validation loss: 5.1821
+2024-11-19 09:27:40,006 - INFO - Saved checkpoint: outputs/checkpoint_epoch_1.pt
+2024-11-19 09:27:44,543 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:27:50,211 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:27:50,695 - INFO - 
+Epoch 3/10
+2024-11-19 09:28:08,378 - INFO - Train loss: 5.0294
+2024-11-19 09:28:14,618 - INFO - Validation loss: 4.8894
+2024-11-19 09:28:15,575 - INFO - Saved checkpoint: outputs/checkpoint_epoch_2.pt
+2024-11-19 09:28:21,970 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:28:26,463 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:28:26,913 - INFO - 
+Epoch 4/10
+2024-11-19 09:28:44,557 - INFO - Train loss: 4.7432
+2024-11-19 09:28:50,808 - INFO - Validation loss: 4.6964
+2024-11-19 09:28:51,766 - INFO - Saved checkpoint: outputs/checkpoint_epoch_3.pt
+2024-11-19 09:28:57,047 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:29:01,534 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:29:02,121 - INFO - 
+Epoch 5/10
+2024-11-19 09:29:19,821 - INFO - Train loss: 4.5887
+2024-11-19 09:29:26,129 - INFO - Validation loss: 4.6065
+2024-11-19 09:29:27,084 - INFO - Saved checkpoint: outputs/checkpoint_epoch_4.pt
+2024-11-19 09:32:18,882 - INFO - Tokenizing texts...
+2024-11-19 09:32:18,882 - INFO - Training samples: 103170
+2024-11-19 09:32:18,883 - INFO - Validation samples: 11464
+2024-11-19 09:32:18,883 - INFO - Tokenizing texts...
+2024-11-19 09:32:18,887 - INFO - Tokenizing texts...
+2024-11-19 09:32:18,902 - INFO - Tokenizing texts...
+2024-11-19 09:32:20,120 - INFO - Tokenizing texts...
+2024-11-19 09:32:20,120 - INFO - Tokenizing texts...
+2024-11-19 09:32:20,123 - INFO - Tokenizing texts...
+2024-11-19 09:32:20,198 - INFO - Tokenizing texts...
+2024-11-19 09:32:20,275 - INFO - 
+Epoch 1/15
+2024-11-19 09:32:38,512 - INFO - Train loss: 7.7450
+2024-11-19 09:32:44,815 - INFO - Validation loss: 5.7855
+2024-11-19 09:32:49,313 - INFO - Saved checkpoint: outputs/checkpoint_epoch_0.pt
+2024-11-19 09:32:53,798 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:32:58,327 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:32:58,843 - INFO - 
+Epoch 2/15
+2024-11-19 09:33:16,528 - INFO - Train loss: 5.4263
+2024-11-19 09:33:22,661 - INFO - Validation loss: 5.1881
+2024-11-19 09:33:27,144 - INFO - Saved checkpoint: outputs/checkpoint_epoch_1.pt
+2024-11-19 09:34:47,141 - INFO - Tokenizing texts...
+2024-11-19 09:34:47,146 - INFO - Training samples: 103170
+2024-11-19 09:34:47,147 - INFO - Validation samples: 11464
+2024-11-19 09:34:47,147 - INFO - Tokenizing texts...
+2024-11-19 09:34:47,156 - INFO - Tokenizing texts...
+2024-11-19 09:34:47,164 - INFO - Tokenizing texts...
+2024-11-19 09:34:48,394 - INFO - Tokenizing texts...
+2024-11-19 09:34:48,412 - INFO - Tokenizing texts...
+2024-11-19 09:34:48,427 - INFO - Tokenizing texts...
+2024-11-19 09:34:48,458 - INFO - Tokenizing texts...
+2024-11-19 09:34:48,587 - INFO - 
+Epoch 1/15
+2024-11-19 09:35:06,781 - INFO - Train loss: 7.7253
+2024-11-19 09:35:13,009 - INFO - Validation loss: 5.7817
+2024-11-19 09:35:17,503 - INFO - Saved checkpoint: outputs/checkpoint_epoch_0.pt
+2024-11-19 09:35:21,984 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:35:26,465 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:35:26,984 - INFO - 
+Epoch 2/15
+2024-11-19 09:37:53,891 - INFO - Tokenizing texts...
+2024-11-19 09:37:53,891 - INFO - Tokenizing texts...
+2024-11-19 09:37:53,893 - INFO - Training samples: 103170
+2024-11-19 09:37:53,894 - INFO - Validation samples: 11464
+2024-11-19 09:37:53,894 - INFO - Tokenizing texts...
+2024-11-19 09:37:53,914 - INFO - Tokenizing texts...
+2024-11-19 09:37:55,128 - INFO - Tokenizing texts...
+2024-11-19 09:37:55,149 - INFO - Tokenizing texts...
+2024-11-19 09:37:55,168 - INFO - Tokenizing texts...
+2024-11-19 09:37:55,175 - INFO - Tokenizing texts...
+2024-11-19 09:37:55,327 - INFO - 
+Epoch 1/15
+2024-11-19 09:38:13,350 - INFO - Train loss: 7.8001
+2024-11-19 09:38:19,619 - INFO - Validation loss: 5.7965
+2024-11-19 09:38:24,118 - INFO - Saved checkpoint: outputs/checkpoint_epoch_0.pt
+2024-11-19 09:38:28,598 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:38:33,092 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:38:33,615 - INFO - 
+Epoch 2/15
+2024-11-19 09:38:51,114 - INFO - Train loss: 5.4252
+2024-11-19 09:38:57,452 - INFO - Validation loss: 5.1828
+2024-11-19 09:39:01,953 - INFO - Saved checkpoint: outputs/checkpoint_epoch_1.pt
+2024-11-19 09:39:06,432 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:39:10,911 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:39:11,365 - INFO - 
+Epoch 3/15
+2024-11-19 09:42:07,755 - INFO - Tokenizing texts...
+2024-11-19 09:42:07,758 - INFO - Tokenizing texts...
+2024-11-19 09:42:07,768 - INFO - Training samples: 103170
+2024-11-19 09:42:07,769 - INFO - Validation samples: 11464
+2024-11-19 09:42:07,769 - INFO - Tokenizing texts...
+2024-11-19 09:42:07,776 - INFO - Tokenizing texts...
+2024-11-19 09:42:08,979 - INFO - Tokenizing texts...
+2024-11-19 09:42:09,017 - INFO - Tokenizing texts...
+2024-11-19 09:42:09,026 - INFO - Tokenizing texts...
+2024-11-19 09:42:09,046 - INFO - Tokenizing texts...
+2024-11-19 09:42:09,173 - INFO - 
+Epoch 1/15
+2024-11-19 09:44:38,721 - INFO - Training samples: 103170
+2024-11-19 09:44:38,721 - INFO - Tokenizing texts...
+2024-11-19 09:44:38,721 - INFO - Validation samples: 11464
+2024-11-19 09:44:38,721 - INFO - Tokenizing texts...
+2024-11-19 09:44:38,723 - INFO - Tokenizing texts...
+2024-11-19 09:44:38,740 - INFO - Tokenizing texts...
+2024-11-19 09:44:39,953 - INFO - Tokenizing texts...
+2024-11-19 09:44:39,959 - INFO - Tokenizing texts...
+2024-11-19 09:44:39,973 - INFO - Tokenizing texts...
+2024-11-19 09:44:40,023 - INFO - Tokenizing texts...
+2024-11-19 09:44:40,107 - INFO - 
+Epoch 1/15
+2024-11-19 09:45:01,512 - INFO - Train loss: 7.8119
+2024-11-19 09:45:07,753 - INFO - Validation loss: 5.8030
+2024-11-19 09:45:12,253 - INFO - Saved checkpoint: outputs/checkpoint_epoch_0.pt
+2024-11-19 09:45:16,743 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:45:21,283 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:45:21,820 - INFO - 
+Epoch 2/15
+2024-11-19 09:45:39,420 - INFO - Train loss: 5.4299
+2024-11-19 09:45:45,622 - INFO - Validation loss: 5.1843
+2024-11-19 09:47:07,060 - INFO - Tokenizing texts...
+2024-11-19 09:47:07,067 - INFO - Training samples: 103170
+2024-11-19 09:47:07,067 - INFO - Validation samples: 11464
+2024-11-19 09:47:07,067 - INFO - Tokenizing texts...
+2024-11-19 09:47:07,069 - INFO - Tokenizing texts...
+2024-11-19 09:47:07,085 - INFO - Tokenizing texts...
+2024-11-19 09:47:08,298 - INFO - Tokenizing texts...
+2024-11-19 09:47:08,310 - INFO - Tokenizing texts...
+2024-11-19 09:47:08,315 - INFO - Tokenizing texts...
+2024-11-19 09:47:08,362 - INFO - Tokenizing texts...
+2024-11-19 09:47:08,452 - INFO - 
+Epoch 1/15
+2024-11-19 09:47:26,794 - INFO - Train loss: 7.7452
+2024-11-19 09:47:33,021 - INFO - Validation loss: 5.7787
+2024-11-19 09:47:33,980 - INFO - Saved checkpoint: outputs/checkpoint_epoch_0.pt
+2024-11-19 09:47:34,925 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:47:35,874 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:47:36,388 - INFO - 
+Epoch 2/15
+2024-11-19 09:47:57,119 - INFO - Train loss: 5.4278
+2024-11-19 09:48:03,503 - INFO - Validation loss: 5.1874
+2024-11-19 09:48:04,458 - INFO - Saved checkpoint: outputs/checkpoint_epoch_1.pt
+2024-11-19 09:48:11,284 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:48:16,689 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:48:17,133 - INFO - 
+Epoch 3/15
+2024-11-19 09:48:34,723 - INFO - Train loss: 5.0322
+2024-11-19 09:48:41,029 - INFO - Validation loss: 4.9002
+2024-11-19 09:48:42,002 - INFO - Saved checkpoint: outputs/checkpoint_epoch_2.pt
+2024-11-19 09:48:46,490 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:48:50,981 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:48:51,444 - INFO - 
+Epoch 4/15
+2024-11-19 09:49:09,181 - INFO - Train loss: 4.7501
+2024-11-19 09:49:15,486 - INFO - Validation loss: 4.7039
+2024-11-19 09:49:16,444 - INFO - Saved checkpoint: outputs/checkpoint_epoch_3.pt
+2024-11-19 09:49:20,917 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:49:25,398 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:49:25,962 - INFO - 
+Epoch 5/15
+2024-11-19 09:49:43,722 - INFO - Train loss: 4.5925
+2024-11-19 09:49:50,176 - INFO - Validation loss: 4.6180
+2024-11-19 09:49:51,137 - INFO - Saved checkpoint: outputs/checkpoint_epoch_4.pt
+2024-11-19 09:49:55,615 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:50:00,101 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:50:00,547 - INFO - 
+Epoch 6/15
+2024-11-19 09:50:18,113 - INFO - Train loss: 4.4945
+2024-11-19 09:50:24,374 - INFO - Validation loss: 4.5583
+2024-11-19 09:50:25,348 - INFO - Saved checkpoint: outputs/checkpoint_epoch_5.pt
+2024-11-19 09:50:32,920 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:50:37,411 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:50:37,872 - INFO - 
+Epoch 7/15
+2024-11-19 09:50:58,763 - INFO - Train loss: 4.3931
+2024-11-19 09:51:05,081 - INFO - Validation loss: 4.5244
+2024-11-19 09:51:06,049 - INFO - Saved checkpoint: outputs/checkpoint_epoch_6.pt
+2024-11-19 09:51:10,528 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:51:15,014 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:51:15,473 - INFO - 
+Epoch 8/15
+2024-11-19 09:51:33,093 - INFO - Train loss: 4.3454
+2024-11-19 09:51:39,368 - INFO - Validation loss: 4.4921
+2024-11-19 09:51:40,322 - INFO - Saved checkpoint: outputs/checkpoint_epoch_7.pt
+2024-11-19 09:51:44,799 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:51:49,282 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:51:49,727 - INFO - 
+Epoch 9/15
+2024-11-19 09:52:07,360 - INFO - Train loss: 4.2905
+2024-11-19 09:52:13,678 - INFO - Validation loss: 4.4824
+2024-11-19 09:52:14,680 - INFO - Saved checkpoint: outputs/checkpoint_epoch_8.pt
+2024-11-19 09:52:19,163 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:52:23,650 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:52:24,095 - INFO - 
+Epoch 10/15
+2024-11-19 09:52:41,695 - INFO - Train loss: 4.2174
+2024-11-19 09:52:47,954 - INFO - Validation loss: 4.4570
+2024-11-19 09:52:48,914 - INFO - Saved checkpoint: outputs/checkpoint_epoch_9.pt
+2024-11-19 09:52:53,477 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:52:57,963 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:52:58,547 - INFO - 
+Epoch 11/15
+2024-11-19 09:53:16,369 - INFO - Train loss: 4.1600
+2024-11-19 09:53:22,619 - INFO - Validation loss: 4.4510
+2024-11-19 09:53:23,577 - INFO - Saved checkpoint: outputs/checkpoint_epoch_10.pt
+2024-11-19 09:53:28,046 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:53:32,530 - INFO - Saved best model: outputs/best_model.pt
+2024-11-19 09:53:32,977 - INFO - 
+Epoch 12/15
+2024-11-19 09:53:50,521 - INFO - Train loss: 4.1097
+2024-11-19 09:53:56,817 - INFO - Validation loss: 4.4569
+2024-11-19 09:53:57,773 - INFO - Saved checkpoint: outputs/checkpoint_epoch_11.pt
+2024-11-19 09:54:05,159 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:54:05,604 - INFO - 
+Epoch 13/15
+2024-11-19 09:54:23,271 - INFO - Train loss: 4.0491
+2024-11-19 09:54:29,493 - INFO - Validation loss: 4.4716
+2024-11-19 09:54:30,486 - INFO - Saved checkpoint: outputs/checkpoint_epoch_12.pt
+2024-11-19 09:54:36,122 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:54:36,571 - INFO - 
+Epoch 14/15
+2024-11-19 09:54:54,321 - INFO - Train loss: 3.9883
+2024-11-19 09:55:00,905 - INFO - Validation loss: 4.4620
+2024-11-19 09:55:01,866 - INFO - Saved checkpoint: outputs/checkpoint_epoch_13.pt
+2024-11-19 09:55:08,157 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:55:08,610 - INFO - 
+Epoch 15/15
+2024-11-19 09:55:26,288 - INFO - Train loss: 3.9374
+2024-11-19 09:55:32,237 - INFO - Validation loss: 4.4872
+2024-11-19 09:55:33,210 - INFO - Saved checkpoint: outputs/checkpoint_epoch_14.pt
+2024-11-19 09:55:39,099 - INFO - Saved latest checkpoint: outputs/latest_model.pt
+2024-11-19 09:55:47,273 - INFO - Training samples: 103170
+2024-11-19 09:55:47,273 - INFO - Validation samples: 11464
+2024-11-19 09:55:47,273 - INFO - Tokenizing texts...
+2024-11-19 09:55:47,274 - INFO - Tokenizing texts...
+2024-11-19 09:55:47,278 - INFO - Tokenizing texts...
+2024-11-19 09:55:47,298 - INFO - Tokenizing texts...
+2024-11-19 09:55:48,510 - INFO - Tokenizing texts...
+2024-11-19 09:55:48,561 - INFO - Tokenizing texts...
+2024-11-19 09:55:48,568 - INFO - Tokenizing texts...
+2024-11-19 09:55:48,605 - INFO - Tokenizing texts...
+2024-11-19 09:55:48,668 - INFO - 
+Epoch 1/15
+2024-11-19 09:56:07,103 - INFO - Train loss: 7.8559
+2024-11-19 09:56:39,332 - INFO - Loading model from outputs/latest_model.pt to cuda
+2024-11-19 09:56:41,167 - INFO - Model loaded successfully!
+2024-11-19 09:59:48,263 - INFO - Loading model from outputs/latest_model.pt to cuda
+2024-11-19 09:59:50,122 - INFO - Model loaded successfully!
+2024-11-19 10:00:03,901 - INFO - Loading model from outputs/latest_model.pt to cuda
+2024-11-19 10:00:05,733 - INFO - Model loaded successfully!
+2024-11-19 10:02:44,685 - INFO - Loading model from outputs/latest_model.pt to cuda
+2024-11-19 10:02:45,462 - INFO - Checkpoint contains keys: dict_keys(['epoch', 'model_state_dict', 'optimizer_state_dict', 'scheduler_state_dict', 'config', 'val_loss'])
+2024-11-19 10:02:45,462 - INFO - Model configuration loaded: d_model=512, num_layers=8, num_head=8
+2024-11-19 10:02:46,545 - INFO - Model loaded successfully with 51,197,440 parameters
+2024-11-19 10:02:46,546 - INFO - Model loaded successfully!
+2024-11-19 10:02:46,546 - INFO - Model config: ModelConfig(d_model=512, num_head=8, drop_prob=0.1, ffn_hidden=2048, num_layers=8, max_seq_len=512, vocab_size=50257, use_flash_attention=True)
+2024-11-19 10:02:46,546 - INFO - Model device: cuda:0
+2024-11-19 10:06:13,577 - INFO - Loading model from outputs/latest_model.pt to cuda
+2024-11-19 10:06:14,351 - INFO - Checkpoint contains keys: dict_keys(['epoch', 'model_state_dict', 'optimizer_state_dict', 'scheduler_state_dict', 'config', 'val_loss'])
+2024-11-19 10:06:14,352 - INFO - Model configuration loaded: d_model=512, num_layers=8, num_head=8
+2024-11-19 10:06:15,433 - INFO - Model loaded successfully with 51,197,440 parameters
+2024-11-19 10:06:15,434 - INFO - Model loaded successfully!
+2024-11-19 10:06:15,434 - INFO - Model config: ModelConfig(d_model=512, num_head=8, drop_prob=0.1, ffn_hidden=2048, num_layers=8, max_seq_len=512, vocab_size=50257, use_flash_attention=True)
+2024-11-19 10:06:15,434 - INFO - Model device: cuda:0
+2024-11-19 10:06:15,743 - INFO - Validation loss from checkpoint: 4.4872
+2024-11-19 10:06:15,743 - INFO - Tokenizer vocabulary size: 50257
